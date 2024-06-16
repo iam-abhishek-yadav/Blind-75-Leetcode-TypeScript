@@ -18,3 +18,14 @@
 | `Binary`  | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Binary/03_counting_bits.ts) |
 | `Binary`  | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./Binary/04_missing_number.ts) |
 | `Binary`  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Binary/05_reverse_bits.ts) |
+| `Dynamic Programming`  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./Dynamic-Programming/01_climbing_stairs.ts) |
+| `Dynamic Programming`  | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./Dynamic-Programming/02_coin_change.ts) |
+| `Dynamic Programming`  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./Dynamic-Programming/03_longest_increasing_subsequence.ts) |
+| `Dynamic Programming`  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./Dynamic-Programming/04_longest_common_subsequence.ts) |
+| `Dynamic Programming`  | [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./Dynamic-Programming/05_word_break.ts) |
+| `Dynamic Programming`  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./Dynamic-Programming/06_combination_sum_IV.ts) |
+| `Dynamic Programming`  | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./Dynamic-Programming/07_house_robber.ts) |
+| `Dynamic Programming`  | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](./Dynamic-Programming/08_house_robber-II.ts) |
+| `Dynamic Programming`  | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./Dynamic-Programming/09_decode_ways.ts) |
+| `Dynamic Programming`  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./Dynamic-Programming/10_unique_paths.ts) |
+| `Dynamic Programming`  | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./Dynamic-Programming/11_jump_game.ts) |
