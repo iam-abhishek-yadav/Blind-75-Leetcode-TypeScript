@@ -29,3 +29,16 @@
 | `Dynamic Programming`  | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./Dynamic-Programming/09_decode_ways.ts) |
 | `Dynamic Programming`  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./Dynamic-Programming/10_unique_paths.ts) |
 | `Dynamic Programming`  | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./Dynamic-Programming/11_jump_game.ts) |
+| `Graph`  | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./Graph/01_clone_graph.ts) |
+| `Graph`  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./Graph/02_course_schedule.ts) |
+| `Graph`  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./Graph/03_pacific_atlantic_water_flow.ts) |
+| `Graph`  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./Graph/04_number_of_islands.ts) |
+| `Graph`  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Graph/05_longest_consecutive_sequence.ts) |
+| `Graph`  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](./Graph/06_alien_dictionary.ts) |
+| `Graph`  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Solution](./Graph/07_graph_valid_tree.ts) |
+| `Graph`  | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Solution](./Graph/08_number_of_provinces.ts) |
+| `Interval`  | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./Interval/01_insert_interval.ts) |
+| `Interval`  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./Interval/02_merge_intervals.ts) |
+| `Interval`  | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./Interval/03_non_overlapping_intervals.ts) |
+| `Interval`  | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](./Interval/04_meeting_rooms.ts) |
+| `Interval`  | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](./Interval/05_meeting_rooms_II.ts) |
